@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻I'm current working on Holcim S.A. as a software developer with technologies such as .NET and Microsoft SQL Server<br>🤝🏻I'm looking to collaborate on amazing projects, learn and gain experience everyday.<br>🤖I'm looking for help in projects with AI<br>🔝I'm current learning advance EXCEL and up-skilling Web Development using Angular and .NET Core.<br>Ask me about robotics, ♟️I love these stuff 🦾<br>I love EDM, do gym and playing chess!
+🧑🏻‍💻I'm current working on Holcim S.A. as a software developer with technologies such as .NET and Microsoft SQL Server<br>🤝🏻I'm looking to collaborate on amazing projects, learn and gain experience everyday.<br>🤖I'm looking for help in projects with AI<br>🔝I'm current learning advance EXCEL and up-skilling Web Development using Angular and .NET Core.<br>🦾Ask me about robotics, I love these stuff<br>♟️I love EDM, do gym and playing chess!
 
 
 ## 🌐 Socials:
