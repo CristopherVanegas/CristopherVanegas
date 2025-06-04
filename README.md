@@ -1,9 +1,9 @@
 # 💫 About Me:
-🧑🏻‍💻 I'm a software developer, continuously learning and contributing within the Odoo ecosystem, using technologies like Python, JavaScript, and PostgreSQL.
-🖥️ I've adopted Ubuntu as my primary operating system, which has enhanced my efficiency in Linux environments for both development and command-line work.
-📊 I also have experience using Excel for data manipulation and imports.
-💡 My current interests revolve around artificial intelligence, data analysis, and robotics.
-🚀 I'm passionate about continuous learning, collaborating on projects, and growing as a tech professional.
+🧑🏻‍💻 I'm a software developer, continuously learning and contributing within the Odoo ecosystem, using technologies like Python, JavaScript, and PostgreSQL.<br/>
+🖥️ I've adopted Ubuntu as my primary operating system, which has enhanced my efficiency in Linux environments for both development and command-line work.<br/>
+📊 I also have experience using Excel for data manipulation and imports.<br/>
+💡 My current interests revolve around artificial intelligence, data analysis, and robotics.<br/>
+🚀 I'm passionate about continuous learning, collaborating on projects, and growing as a tech professional.<br/>
 Outside of work, I enjoy EDM music 🎧, going to the gym 🏋🏻, and playing chess ♟️
 
 ## 🌐 Socials:
