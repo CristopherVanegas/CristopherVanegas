@@ -1,6 +1,10 @@
 # 💫 About Me:
-🧑🏻‍💻I'm current working on Holcim S.A. as a software developer with technologies such as .NET C#, DevExpress and Microsoft SQL Server<br>🤝🏻I'm looking to collaborate on amazing projects, learn and gain experience everyday.<br>🤖I'm looking for help in projects with AI<br>🔝I'm current learning advance EXCEL and up-skilling Web Development using Angular and .NET Core.<br>🦾Ask me about robotics, I love these stuff<br>♟️I love EDM, do gym and playing chess!
-
+🧑🏻‍💻 I'm a software developer, continuously learning and contributing within the Odoo ecosystem, using technologies like Python, JavaScript, and PostgreSQL.
+🖥️ I've adopted Ubuntu as my primary operating system, which has enhanced my efficiency in Linux environments for both development and command-line work.
+📊 I also have experience using Excel for data manipulation and imports.
+💡 My current interests revolve around artificial intelligence, data analysis, and robotics.
+🚀 I'm passionate about continuous learning, collaborating on projects, and growing as a tech professional.
+Outside of work, I enjoy EDM music 🎧, going to the gym 🏋🏻, and playing chess ♟️
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/699679893931294840) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Cristopher Vanegas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristopher.codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cristopher Vanegas Santi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cristopher.codes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@j.k_mint) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristopher.vanegas.21@gmail.com) 
